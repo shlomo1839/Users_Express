@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to my Blog",
+    "content": "This is the first post in our new Express.js authentication system!",
+    "authorId": 1,
+    "authorUsername": "admin"
+  },
+  {
+    "id": 2,
+    "title": "Node.js Best Practices",
+    "content": "It is essential to understand the Event Loop and how to modularize your code into folders.",
+    "authorId": 1,
+    "authorUsername": "admin"
+  },
+  {
+    "id": 3,
+    "title": "My First Day as a Developer",
+    "content": "I started my new job today and successfully built my first API with basic authentication.",
+    "authorId": 2,
+    "authorUsername": "john_doe"
+  },
+  {
+    "id": 4,
+    "title": "Working with JSON files",
+    "content": "Using fs/promises allows us to read and write data asynchronously in a clean way.",
+    "authorId": 3,
+    "authorUsername": "alice_smith"
+  },
+  {
+    "id": 5,
+    "title": "Why Express is great",
+    "content": "Express is a minimal and flexible web application framework that provides a robust set of features.",
+    "authorId": 2,
+    "authorUsername": "john_doe"
+  },
+  {
+    "id": 6,
+    "title": "My New English Post",
+    "content": "This is a post added via the API using Postman or Fetch.",
+    "authorId": 1,
+    "authorUsername": "admin"
+  }
+]
